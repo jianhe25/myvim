@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/hejian/work/lagou/code/lagou_search_resume/.svn'
+let g:netrw_dirhist_2='/Users/hejian/work/tsinghua/qatar/BUDDI/build'
+let g:netrw_dirhist_3='/Users/hejian/work/tsinghua/qatar/BUDDI/test'
+let g:netrw_dirhist_4='/Users/hejian/work/lagou/code/lagou_search_resume/trunk/src/main/common/com/lagou/common/util'
+let g:netrw_dirhist_5='/usr/local/apache-tomcat-7.0.65'
+let g:netrw_dirhist_6='/data/data/lucene_index'
